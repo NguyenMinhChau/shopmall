@@ -59,7 +59,14 @@
         left: 0;
     }
     .auth-form{
-        width: 100vw;
+        width: 90vw;
+    }
+    .auth-form__socials{
+        padding: 1.4rem 0.6rem;
+    }
+    .auth-form{
+        top: 28px;
+        position: relative;
     }
 }
 
